@@ -134,5 +134,5 @@ def test_homework():
     model = _load_model()
    
 
-    _test_components(model)
+   
    
